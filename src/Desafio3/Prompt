@@ -1,0 +1,6 @@
+lista = ["Ana", "Bruno", "Carlos"]
+for i de 0 até lista.tamanho:
+    imprimir(lista[i])
+
+Quando executo esse código, recebo um erro de 'índice fora dos limites da lista'.
+Pode me explicar por que isso acontece e me mostrar a forma correta de percorrer a lista sem causar esse erro? Além disso, se possível, sugira uma maneira mais segura de resolver esse problema."
